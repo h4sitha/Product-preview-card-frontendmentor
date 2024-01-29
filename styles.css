@@ -56,3 +56,9 @@ h1, h2 {
 #old-price {
     text-decoration: line-through;
 }
+
+#price {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
