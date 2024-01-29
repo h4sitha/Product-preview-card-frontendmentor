@@ -42,6 +42,8 @@ button {
 main > img,
 main > div {
     width: 50%;
+    min-width: 285px;
+    flex-grow: 1;
 }
 
 main {
@@ -52,6 +54,7 @@ main {
     /* margin: auto; */
     border-radius: 10px;
     background-color: hsl(0, 0%, 100%);
+    flex-wrap: wrap;
 }
 
 main > img {
