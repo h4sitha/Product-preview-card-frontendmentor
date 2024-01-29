@@ -110,3 +110,12 @@ button:hover {
     background-color: hsl(212, 21%, 14%);
     cursor: pointer;
 }
+
+@media (max-width: 600px) {
+
+    main > img {
+        height: 70vw;
+        object-fit: cover;
+    }
+
+}
