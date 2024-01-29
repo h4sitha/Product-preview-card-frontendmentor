@@ -8,6 +8,10 @@ html {
 body {
     font-family: "Montserrat";
     background-color: hsl(30, 38%, 92%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
 h1,
@@ -44,7 +48,7 @@ main {
     max-width: 600px;
     width: 95%;
     /* border: 1px solid black; */
-    margin: auto;
+    /* margin: auto; */
     border-radius: 10px;
     background-color: hsl(0, 0%, 100%);
 }
