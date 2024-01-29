@@ -62,3 +62,17 @@ h1, h2 {
     align-items: center;
     gap: 20px;
 }
+
+#perfume,
+#old-price,
+p {
+    color: hsl(228, 12%, 48%);
+}
+
+h2 {
+    color: hsl(158, 36%, 37%);
+}
+
+h1 {
+    color: hsl(212, 21%, 14%);
+}
