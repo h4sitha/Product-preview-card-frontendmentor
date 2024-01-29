@@ -16,6 +16,15 @@ h1,
 
 button {
     font-family: inherit;
+    background-color: hsl(158, 36%, 37%);
+    color: hsl(0, 0%, 100%);
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border: none;
+    border-radius: 7px;
 }
 
 * {
