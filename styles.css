@@ -15,7 +15,7 @@ button {
 }
 
 * {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     margin: 0;
     padding: 0;
 }
@@ -31,4 +31,11 @@ main {
     width: 95%;
     border: 1px solid black;
     margin: auto;
+}
+
+main > div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 35px;
 }
