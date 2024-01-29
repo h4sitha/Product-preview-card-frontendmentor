@@ -118,4 +118,9 @@ button:hover {
         object-fit: cover;
     }
 
+    main > img,
+    main > div {
+        min-width: fit-content;
+    }
+
 }
