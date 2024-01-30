@@ -116,6 +116,7 @@ button:hover {
     main > img {
         height: 70vw;
         object-fit: cover;
+        border-radius: 10px 10px 0 0;
     }
 
     main > img,
@@ -125,6 +126,7 @@ button:hover {
 
     body {
         height: auto;
+        margin: 10px 0;
     }
 
 }
