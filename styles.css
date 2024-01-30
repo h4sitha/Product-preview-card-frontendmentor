@@ -129,7 +129,7 @@ button:hover {
     }
 
     body {
-        height: auto;
+        height: 100vh;
         margin: 10px 0;
     }
 
